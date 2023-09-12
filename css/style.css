@@ -1,0 +1,48 @@
+body {
+    background-color: whitesmoke;
+}
+
+.logo-background {
+    background-image: url("../images/hero_picture.jpeg");
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+.icon-square {
+    padding: 0.5rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+  .card {
+   border-radius: 0.75rem;
+   
+}
+
+.card-text {
+    display: flex;
+    color: white;
+    font-size: 20pt;
+    font-weight: bold;
+    justify-content: end;
+    align-content: center;
+}
+
